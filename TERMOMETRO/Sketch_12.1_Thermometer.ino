@@ -18,4 +18,5 @@ void loop() {
   Serial.printf("ADC value : %d,\tVoltage : %.2fV, \tTemperature : %.2fC\n", adcValue, voltage, tempC);
   delay(1000);
   Serial.printf("P^rueba");
-}
+  Serial.printf("viva lA PEPA");
+  }
