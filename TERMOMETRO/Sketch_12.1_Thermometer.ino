@@ -17,4 +17,5 @@ void loop() {
   double tempC = tempK - 273.15;                                  //calculate temperature (Celsius)
   Serial.printf("ADC value : %d,\tVoltage : %.2fV, \tTemperature : %.2fC\n", adcValue, voltage, tempC);
   delay(1000);
+  Serial.printf("P^rueba");
 }
